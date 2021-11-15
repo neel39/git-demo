@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## ipsum below
+## website content
 
-hhlskkld  hildf jidfnl sfhld
-
-dfnjdsnfjksd fjsdfl fdsf
+1. index file
